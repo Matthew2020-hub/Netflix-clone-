@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: akinolatolulope24@gmail.com
+Date: Fri, 30 Jul 2021 15:32:31 -0000
+Message-ID: <162765915148.9784.11560647791750814310@DESKTOP-8TJOH6S>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/password/reset/confirm/MQ/aqmhe7-408fbbef3ffc419932eef92d95685e61
+
+Your username, in case you’ve forgotten: akinolatolulope24@gmail.com
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
